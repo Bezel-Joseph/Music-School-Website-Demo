@@ -505,6 +505,8 @@ header .ham-burger.active span:nth-child(2){
 .schedule .content .text img{
 	
     margin-top: -50px;
+	width: 100%;
+	transform: rotateY(180deg);
 }
 
 .schedule .content .timing .table{
